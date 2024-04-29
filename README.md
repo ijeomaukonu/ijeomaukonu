@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ijeomaukonu
-- 👀 I’m interested in coding and cybersecurity
-- 🌱 I’m currently learning Frontend Development
-- 💞️ I’m looking to collaborate on different projects
+- 👀 I’m interested in coding and data engineering
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on different projects and learn more.
 - 📫 You can reach me on linkedin @Ukonu Ijeoma
 
 <!---
